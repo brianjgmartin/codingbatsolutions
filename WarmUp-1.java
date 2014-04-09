@@ -1,6 +1,7 @@
 //  Brian Martin 09/04/2014
 // These are the solutions to WarmUp-1 www.codingbat.com java problems
 // All methods have being tested and verified
+// This is a hotfiX
 
 // sleepIn
 // The parameter weekday is true if it is a weekday, and the parameter vacation is true if we are on vacation. We sleep in if 
@@ -275,45 +276,3 @@ for (int i = 0 ;i<str.length() ;i+=n){
 sb.append(str.charAt(i));}
 return sb.toString();
   }
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
