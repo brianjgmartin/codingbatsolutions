@@ -1,7 +1,6 @@
-//  Brian Martin 09/04/2014
-// These are the solutions to WarmUp-1 www.codingbat.com java problems
+// Brian Martin 09/04/2014
 // All methods have being tested and verified
-//This is a hotfiXi
+//This is a hotfiX
 
 // sleepIn
 // The parameter weekday is true if it is a weekday, and the parameter vacation is true if we are on vacation. We sleep in if 
