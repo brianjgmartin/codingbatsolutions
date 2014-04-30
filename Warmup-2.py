@@ -8,7 +8,9 @@ def string_times(str, n):
   result =""
   for i in range (n):
    result+=str
-  return result
+  return 
+  sample change
+  
 
 
 # Given a string and a non-negative int n, we'll say that the front of the
@@ -73,7 +75,7 @@ def array123(nums):
   if nums[i]==1 and nums[i+1]==2 and nums[i+2]==3:
    return True
  return False
-
+ 
 
 # Given 2 strings, a and b, return the number of the positions where they contain
 #  the same length 2 substring. So "xxcaazz" and "xxbaaz" yields 3, 
