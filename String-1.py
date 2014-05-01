@@ -10,7 +10,7 @@ def hello_name(name):
 #  the order abba, e.g. "Hi" and "Bye" returns "HiByeByeHi".
 
 def make_abba(a, b):
-    return a+b+b+a
+    return a + b + b + a
   
   # The web is built with HTML strings like "<i>Yay</i>" 
   # which draws Yay as italic text. In this example, the "i" tag makes 
@@ -35,3 +35,4 @@ def make_tags(tag, word):
 
  def extra_end(str): 
   return str[len(str)-2:len(str)]*3
+
